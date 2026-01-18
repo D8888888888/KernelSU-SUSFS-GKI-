@@ -1,2 +1,2 @@
 # KernelSU-SUSFS-GKI-
-自用
+自用内核
